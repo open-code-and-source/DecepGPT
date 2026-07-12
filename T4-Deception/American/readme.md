@@ -1,0 +1,2 @@
+The American version of the T4-Deception dataset is based on original videos collected from Dailymotion. Each record consists of three parts: the first part is the filename of the video to be downloaded, the middle part specifies the timestamp of the segment to be extracted, and the last part indicates whether the statement is deceptive.
+Access also could be obtained by contacting jiajian_huang_cs@163.com and signing a data use agreement.
